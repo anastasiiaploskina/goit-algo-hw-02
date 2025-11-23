@@ -32,7 +32,6 @@ Each app is self-contained and can be executed directly.
   * [Features](#features-2)
   * [Usage](#usage-2)
 * [Dependencies](#dependencies)
-* [License](#license)
 
 ---
 
