@@ -49,8 +49,6 @@ These utilities can be used for educational purposes or integrated into larger s
 
 # **Task 1 — Request Queue Simulator**
 
-Source: 
-
 ## **Description**
 
 This application simulates a stream of incoming requests using a **FIFO queue**. Requests are generated with unique UUIDs and added to a queue until it fills up; then they are processed one by one.
@@ -84,8 +82,6 @@ Terminate with **Ctrl + C**.
 
 # **Task 2 — Palindrome Checker**
 
-Source: 
-
 ## **Description**
 
 This script checks whether a string is a **palindrome** using a double-ended queue (**deque**).
@@ -117,8 +113,6 @@ print(is_palindrome("A man, a plan, a canal: Panama"))
 ---
 
 # **Task 3 — Bracket Closure Validator**
-
-Source: 
 
 ## **Description**
 
