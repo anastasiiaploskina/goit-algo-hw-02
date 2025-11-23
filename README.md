@@ -1,4 +1,4 @@
-instructions: |
+
   # **Multi-App Python Utilities**
 
   This repository contains three small standalone Python applications, each demonstrating work with fundamental data structures: queues, deques, and stacks. The apps are:
