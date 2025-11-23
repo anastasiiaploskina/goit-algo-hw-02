@@ -1,16 +1,14 @@
----
+instructions: |
+  # **Multi-App Python Utilities**
 
-# **Multi-App Python Utilities**
+  This repository contains three small standalone Python applications, each demonstrating work with fundamental data structures: queues, deques, and stacks. The apps are:
 
-This repository contains three small standalone Python applications, each demonstrating work with fundamental data structures: queues, deques, and stacks. The apps are:
+  1. **Task 1:** Request Queue Simulator
+  2. **Task 2:** Palindrome Checker
+  3. **Task 3:** Bracket Closure Validator
 
-1. **Task 1:** Request Queue Simulator
-2. **Task 2:** Palindrome Checker
-3. **Task 3:** Bracket Closure Validator
+  Each app is self-contained and can be executed directly.
 
-Each app is self-contained and can be executed directly.
-
----
 
 ## **Table of Contents**
 
